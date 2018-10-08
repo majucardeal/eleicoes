@@ -1,0 +1,79 @@
+.progress{
+	height:5%;
+	margin-bottom: 2%;
+}
+.apuradas{
+	width:99%;
+}
+.container-fluid{
+	margin-top: 2%;
+}
+.candidatos{
+	list-style: none;
+}
+.porcentagem{
+	text-align: right;
+}
+.foto{
+	border-radius: 50%;
+	width: 10%;
+}
+.negrito{
+	font-weight: bold;
+}
+.info{
+	margin-top: -10%;
+	margin-left: 10%;
+}
+.partido{
+	margin-top: -3%;
+}
+.porcentagemcand{
+	font-weight:bold;
+	margin-top: -8%;
+	margin-left: 80%;
+}
+.quantidadevotos{
+	margin-top: -4%;
+	margin-left: 71%;
+}
+
+.cinza{
+	color: #c0c0c0;
+	font-size: 14px;
+}
+#progressobolsonaro{
+	width:46%;
+}
+.candidato{
+	margin-top: 3%;
+}
+.badge{
+	background-color: transparent;
+}
+.badge.badge-outlined.badge-success {
+  border-color: #64DD17;
+  color: #64DD17;
+}
+.badge {
+  border: 1px solid transparent;
+  border-radius: 99999px;
+}
+.segundoturno{
+	margin-top: -7%;
+	margin-left: 5%;
+}
+.barracand{
+	margin-top: -1%;
+	width: 82%;
+	margin-left: 10%;
+}
+#progressohaddad{
+	width: 29%;
+}
+.candidatocinza{
+	opacity: .6;
+}
+#progressociro{
+	width:10%;
+}
